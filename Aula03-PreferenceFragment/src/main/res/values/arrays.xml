@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_syncConnectionTypes_entries">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>LinkedIn</item>
+    </string-array>
+    <string-array name="pref_syncConnectionTypes_values">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>LinkedIn</item>
+    </string-array>
+</resources>

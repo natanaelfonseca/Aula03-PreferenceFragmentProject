@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Aula03-PreferenceFragment</string>
+
+    <string name="action_settings" >Settings</string>
+
+    <string name="hello_world" >Hello world!</string>
+
+    <string name="pref_sync">Adicionar Contas ?</string>
+
+    <string name="pref_sync_summ">Marque se deseja adicionar contas...</string>
+
+    <string name="pref_syncConnectionType">Escolha uma opcao</string>
+
+    <string name="pref_syncConnectionTypes_default">Facebook</string>
+
+    <string name="pref_selectaccount">Selecione uma Conta</string>
+
+</resources>

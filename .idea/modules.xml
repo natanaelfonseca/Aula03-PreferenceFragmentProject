@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula03-PreferenceFragment/Aula03-PreferenceFragment.iml" filepath="$PROJECT_DIR$/Aula03-PreferenceFragment/Aula03-PreferenceFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula03-PreferenceFragmentProject.iml" filepath="$PROJECT_DIR$/Aula03-PreferenceFragmentProject.iml" />
+    </modules>
+  </component>
+</project>
+
